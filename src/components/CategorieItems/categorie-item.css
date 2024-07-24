@@ -1,0 +1,3 @@
+.category_item:hover .category_item-active {
+  opacity: 0.9;
+}
